@@ -1,5 +1,9 @@
 # Workshop-ThreeJS
 
+## Description
+
+# ThreeJS is a JavaScript Library used for animating and rendering multi-dimmensional objects. It can be used for model testing, game development or design enhancing.
+
 ## Install ThreeJS:
 
 ```
